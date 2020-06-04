@@ -1,0 +1,16 @@
+.\rvmdk\helloadc2.o: helloADC2.c
+.\rvmdk\helloadc2.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\helloadc2.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\helloadc2.o: \ti\TivaWare_C_Series-2.2.0.295\inc/hw_memmap.h
+.\rvmdk\helloadc2.o: \ti\TivaWare_C_Series-2.2.0.295\inc/hw_types.h
+.\rvmdk\helloadc2.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/debug.h
+.\rvmdk\helloadc2.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/fpu.h
+.\rvmdk\helloadc2.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/gpio.h
+.\rvmdk\helloadc2.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/pin_map.h
+.\rvmdk\helloadc2.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/rom.h
+.\rvmdk\helloadc2.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/rom_map.h
+.\rvmdk\helloadc2.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/sysctl.h
+.\rvmdk\helloadc2.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/uart.h
+.\rvmdk\helloadc2.o: \ti\TivaWare_C_Series-2.2.0.295\utils/uartstdio.h
+.\rvmdk\helloadc2.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\rvmdk\helloadc2.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/adc.h

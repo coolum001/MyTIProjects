@@ -1,0 +1,16 @@
+.\rvmdk\hellotempadc.o: hellotempadc.c
+.\rvmdk\hellotempadc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\hellotempadc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\hellotempadc.o: \ti\TivaWare_C_Series-2.2.0.295\inc/hw_memmap.h
+.\rvmdk\hellotempadc.o: \ti\TivaWare_C_Series-2.2.0.295\inc/hw_types.h
+.\rvmdk\hellotempadc.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/debug.h
+.\rvmdk\hellotempadc.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/fpu.h
+.\rvmdk\hellotempadc.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/gpio.h
+.\rvmdk\hellotempadc.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/pin_map.h
+.\rvmdk\hellotempadc.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/rom.h
+.\rvmdk\hellotempadc.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/rom_map.h
+.\rvmdk\hellotempadc.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/sysctl.h
+.\rvmdk\hellotempadc.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/uart.h
+.\rvmdk\hellotempadc.o: \ti\TivaWare_C_Series-2.2.0.295\utils/uartstdio.h
+.\rvmdk\hellotempadc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\rvmdk\hellotempadc.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/adc.h

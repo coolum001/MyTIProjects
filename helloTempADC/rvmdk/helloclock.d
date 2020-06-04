@@ -1,0 +1,15 @@
+.\rvmdk\helloclock.o: helloclock.c
+.\rvmdk\helloclock.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\helloclock.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\rvmdk\helloclock.o: \ti\TivaWare_C_Series-2.2.0.295\inc/hw_memmap.h
+.\rvmdk\helloclock.o: \ti\TivaWare_C_Series-2.2.0.295\inc/hw_types.h
+.\rvmdk\helloclock.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/debug.h
+.\rvmdk\helloclock.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/fpu.h
+.\rvmdk\helloclock.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/gpio.h
+.\rvmdk\helloclock.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/pin_map.h
+.\rvmdk\helloclock.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/rom.h
+.\rvmdk\helloclock.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/rom_map.h
+.\rvmdk\helloclock.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/sysctl.h
+.\rvmdk\helloclock.o: \ti\TivaWare_C_Series-2.2.0.295\driverlib/uart.h
+.\rvmdk\helloclock.o: \ti\TivaWare_C_Series-2.2.0.295\utils/uartstdio.h
+.\rvmdk\helloclock.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h

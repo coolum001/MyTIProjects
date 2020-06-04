@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\donc\Documents\MyTIProjects\helloClock\helloClock.uvproj
+Project File Date:  06/02/2020
+
+<h2>Output:</h2>
+Rebuild target 'helloClock'
+assembling startup_rvmdk.S...
+compiling uartstdio.c...
+compiling helloclockswitches.c...
+helloclockswitches.c(146): warning:  #223-D: function "sprintf" declared implicitly
+      sprintf(clockfreqstr, "%d", SysCtlClockGet() ); 
+helloclockswitches.c: 1 warning, 0 errors
+linking...
+Program Size: Code=3316 RO-data=676 RW-data=8 ZI-data=512  
+After Build - User command #1: fromelf --bin --output .\rvmdk\hello.bin .\rvmdk\hello.axf
+".\rvmdk\hello.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\donc\\Documents\\MyTIProjects\\helloClock\\rvmdk\\hello.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+</pre>
+</body>
+</html>
