@@ -7,7 +7,7 @@
 
   <Targets>
     <Target>
-      <TargetName>helloADC2</TargetName>
+      <TargetName>helloTempADC</TargetName>
       <ToolsetNumber>0x4</ToolsetNumber>
       <ToolsetName>ARM-ADS</ToolsetName>
       <TargetOption>
@@ -476,9 +476,9 @@
               <FilePath>\ti\TivaWare_C_Series-2.2.0.295\utils\uartstdio.c</FilePath>
             </File>
             <File>
-              <FileName>helloADC2.c</FileName>
+              <FileName>hellotempadc.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\helloADC2.c</FilePath>
+              <FilePath>.\hellotempadc.c</FilePath>
             </File>
           </Files>
         </Group>

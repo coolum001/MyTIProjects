@@ -251,7 +251,7 @@ main(void)
 				
         //
 
-				 //
+				//
         // Display the adc value on the console.
         //
         UARTprintf("ADC Value = %4d \n", pui32ADC0Value[0]);
